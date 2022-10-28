@@ -21,3 +21,12 @@ para popular o select de países.
 - As cidades precisam ser buscadas na API, seguindo as instruções abaixo.
   - Fazer uma requisição GET para a rota: https://amazon-api.sellead.com/city para
 popular o select de cidades.
+
+## Observações
+
+- O Wireframe abaixo é apenas um exemplo, ou seja, a estrutura da aplicação não precisa 
+obrigatoriamente seguir a disposição que mostramos.
+- Fica livre ao candidato(a) a utilização de máscaras e validações dos campos.
+- Fica livre ao candidato(a) a utilização de bibliotecas.
+
+![wireframe modelo](https://i.imgur.com/dupsLVm.png)
