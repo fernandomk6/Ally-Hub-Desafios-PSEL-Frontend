@@ -76,9 +76,9 @@ const Destinations = () => {
       <button type="button" onClick={confirmDestination}>Confirmar destino</button>
 
       <div>
-        { destiny.map(dest => { 
+        { destiny.map(dest => ( 
           <p>{dest}</p>
-        }) }
+        )) }
       </div>
       
     </div>
